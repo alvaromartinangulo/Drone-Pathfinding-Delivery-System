@@ -1,5 +1,5 @@
 # Drone-Pathfinding-Delivery-System
-This application functions by connecting to different endpoints from a REST server. Unfortunately, these servers are no longer available.
+This application functions by connecting to different endpoints from a REST server. Unfortunately, these servers are no longer available. It was packaged and built using Maven, and developed in Java.
 
 Instead, some result files have been produced from previous runs of the system to prove it's functionality.
 
